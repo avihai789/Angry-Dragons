@@ -1,4 +1,4 @@
-Final Project - Angry Dragons 
+Angry Dragons 
 
 Program Description: 
 This program is a game called Angry Dragons, which is based on the game Angry Birds but includes a Game of Thrones twist. The goal of the game is to
